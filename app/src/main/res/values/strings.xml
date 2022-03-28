@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assessment1_PreFiApp</string>
+    <string name="gaji">Gaji Anda berapa?</string>
+    <string name="introText">Aplikasi PreFi (Pre Finance) adalah aplikasi yang mengatur alokasi penghasilan yang Anda miliki. Kini, Anda tidak perlu bingung dalam menghitung besaran uang atau budget suatu kebutuhan dari penghasilan.  Have fun, have funds!</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="kebutuhanHidup_x">Kebutuhan Hidup: %1$.2f</string>
+    <string name="kebutuhanSarana_x">Kebutuhan Sarana: %1$.2f</string>
+    <string name="tabung_x">Tabung: %1$.2f</string>
+    <string name="amal_x">Amal: %1$.2f</string>
+    <string name="gaji_invalid">Gaji tidak boleh kosong.</string>
+
+
+
+</resources>
